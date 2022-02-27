@@ -1,5 +1,4 @@
 # MentalDiaries-homepage
-This is the homepage of the website written in Bootstrap, depicting the functionalities of the application built for Codeutsava project DearDiary by team AstuteForce.
 
 Problem Statement Analysis
 ----------------------------
@@ -13,3 +12,9 @@ Our Solution
 2) Parents and teachers can also log information about the behavioral pattern and personality disorders of the child to get a progressive analysis about the mental health of the child in form of charts along with regular status updates.
 3) Based on the analysis, alerts and recommendations of nearby mental health consultants and therapists will be provided to the user using Geo-location API. This will assist them to book appointments and get adequate counselling.
 4) Given the fact that mental health is a very personal topic, we don't ask for the identity of the user during signup inorder to maintain the anonymity of the user. They just have to provide their username and password.
+
+Our Team
+----------------------------
+Ajay Jeena
+****************
+fghj
