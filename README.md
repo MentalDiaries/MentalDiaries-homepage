@@ -1,4 +1,5 @@
 # MentalDiaries-homepage
+This is the homepage of the website named dear diary written in Bootstrap using CSS Flexbox layout and Bootstrap's grid system. Made use of JS CDN, JQuery and Popper.JS.
 
 Problem Statement Analysis
 -----------------------------
